@@ -1,0 +1,5 @@
+1:samsung s23:movil samsung:800:20:
+2:xiaomi 12:movil xiaomi:600:2:
+3:oppo LE:movil oppo:300:0:
+4:iphone 14:movil iphone:1100:3:
+5:huawei Mate50:movil huawei:120:0:

@@ -1,0 +1,40 @@
+* {
+    margin:0;
+}
+
+.menu-top {
+    height: 50px;
+    background-color:rgb(228, 227, 227) ;
+    width: auto;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+  
+}
+
+.menu-top-p {
+    margin:auto;
+    text-align: center;
+    vertical-align: center;
+}
+
+table,td {
+    border: 1px solid rgb(245, 147, 1);
+}
+
+#botonAnadir {
+	height: 20px;
+	width: 20px;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+
+.barras {
+    width: 350px;
+    margin: 5px;
+}
